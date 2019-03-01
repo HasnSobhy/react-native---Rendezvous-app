@@ -1,0 +1,33 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ex-react-native-i18n": "^0.0.5",
+    "expo": "^32.0.0",
+    "firebase": "^5.8.2",
+    "galio-framework": "^0.5.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-native-country-code-telephone-input": "^0.0.9",
+    "react-native-elements": "^1.0.0",
+    "react-native-google-places-autocomplete": "^1.3.9",
+    "react-native-material-kit": "^0.5.1",
+    "react-native-phone-input": "^0.2.1",
+    "react-navigation": "^3.2.1",
+    "react-navigator": "^0.0.0-0",
+    "react-redux": "^6.0.0",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}
